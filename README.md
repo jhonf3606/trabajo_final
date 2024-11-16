@@ -9,3 +9,5 @@
 
  # Ver un histograma**: Muestra cómo se distribuye el kilometraje de los vehículos en el conjunto de datos.
 # Ver un gráfico de dispersión**: Muestra la relación entre el kilometraje y el precio de los vehículos.
+
+# link para visualizar https://trabajo-final-68mq.onrender.com
